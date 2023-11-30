@@ -4,6 +4,7 @@ Consider the expression: "3 + 5 * 2 - 4 / 2".
 Initialization:
 
 The operandStack and operatorStack are initially empty.
+
 Input "3":
 User clicks on the "3" button.
 textField is updated to "3".
